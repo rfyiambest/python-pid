@@ -1,4 +1,4 @@
-# python-pid 
+# python-pid
 
 ## 简单描述
 
@@ -17,7 +17,7 @@ pip install python-pid
 
 方法2
 ```
-git clone git@github.com:rfyiamcool/python-pid.git
+git clone git@github.com:rfyiambest/python-pid.git
 cd python-pid
 python setup.py install
 ```
